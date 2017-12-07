@@ -1,0 +1,18 @@
+{
+  "name": "baton-vcr-replay-for-aws-sdk",
+  "version": "1.0.0",
+  "author": "John Gilbert <john.gilbert@danteinc.com> (danteinc.com)",
+  "license": "ISC",
+  "main": "index.js",
+  "keywords": [
+    "test",
+    "testing",
+    "vcr",
+    "replay",
+    "aws-sdk"
+  ],
+  "devDependencies": {
+    "aws-sdk": "latest",
+    "replay": "latest"
+  }
+}
